@@ -1,0 +1,21 @@
+.fixed-box {
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+  z-index: 10000000;
+  /* opacity: 0.1; */
+  transition: all 0.3s ease 0s;
+}
+
+.fixed-chat-box {
+  position: fixed;
+  right: 5%;
+  bottom: 10%;
+  z-index: 10000000;
+  /* opacity: 0.1; */
+  transition: all 0.3s ease 0s;
+}
+
+* {
+  font-family: sans-serif;
+}

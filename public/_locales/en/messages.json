@@ -1,10 +1,10 @@
 {
   "extensionDescription": {
-    "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "description": "LDCC AI Chatbot Extension",
+    "message": "LDCC AI Chatbot입니다. 각 플러그인은 롯데 임직원 인증 이후 사용이 가능합니다."
   },
   "extensionName": {
-    "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "description": "LDCC AI Chatbot",
+    "message": "LDCC AI Chatbot입니다. 환영합니다."
   }
 }

@@ -4,7 +4,7 @@ import '@pages/panel/Panel.css';
 const Panel: React.FC = () => {
   return (
     <div className="container">
-      <h1 className="">Dev Tools Panel</h1>
+      <h1 className="">Dev Tools Panel - LDCC AI CHATBOT</h1>
     </div>
   );
 };
